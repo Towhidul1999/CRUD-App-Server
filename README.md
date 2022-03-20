@@ -4,3 +4,5 @@
 ## POST-Add Note: http://localhost:3000/notes/
 ## PUT-Update Note: http://localhost:3000/notes/:id
 ## DELETE-Delete Note: http://localhost:3000/notes/:id
+
+## You can run this all operation from REST client like postman.
